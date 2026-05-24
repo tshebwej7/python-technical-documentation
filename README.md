@@ -24,4 +24,4 @@ Add your GitHub Pages link here.
 
 ## Author
 
-Your Name
+Jires Tshebwe
