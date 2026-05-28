@@ -20,7 +20,7 @@ A professional technical documentation website built with HTML and CSS.
 
 ## Live Demo
 
-Add your GitHub Pages link here.
+https://tshebwej7.github.io/python-technical-documentation/
 
 ## Author
 
